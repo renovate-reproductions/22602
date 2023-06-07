@@ -1,4 +1,4 @@
 ---
 services:
   renovate:
-    image: renovate/renovate:35.105.5
+    image: renovate/renovate:35.113.1
